@@ -1,0 +1,12 @@
+C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\Tarker.Booking\Tarker.Booking.Domian\bin\Debug\net7.0\Tarker.Booking.Domian.deps.json
+C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\Tarker.Booking\Tarker.Booking.Domian\bin\Debug\net7.0\Tarker.Booking.Domian.dll
+C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\Tarker.Booking\Tarker.Booking.Domian\bin\Debug\net7.0\Tarker.Booking.Domian.pdb
+C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\Tarker.Booking\Tarker.Booking.Domian\obj\Debug\net7.0\Tarker.Booking.Domian.csproj.AssemblyReference.cache
+C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\Tarker.Booking\Tarker.Booking.Domian\obj\Debug\net7.0\Tarker.Booking.Domian.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\Tarker.Booking\Tarker.Booking.Domian\obj\Debug\net7.0\Tarker.Booking.Domian.AssemblyInfoInputs.cache
+C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\Tarker.Booking\Tarker.Booking.Domian\obj\Debug\net7.0\Tarker.Booking.Domian.AssemblyInfo.cs
+C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\Tarker.Booking\Tarker.Booking.Domian\obj\Debug\net7.0\Tarker.Booking.Domian.csproj.CoreCompileInputs.cache
+C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\Tarker.Booking\Tarker.Booking.Domian\obj\Debug\net7.0\Tarker.Booking.Domian.dll
+C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\Tarker.Booking\Tarker.Booking.Domian\obj\Debug\net7.0\refint\Tarker.Booking.Domian.dll
+C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\Tarker.Booking\Tarker.Booking.Domian\obj\Debug\net7.0\Tarker.Booking.Domian.pdb
+C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\Tarker.Booking\Tarker.Booking.Domian\obj\Debug\net7.0\ref\Tarker.Booking.Domian.dll
