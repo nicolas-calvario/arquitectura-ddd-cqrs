@@ -3,9 +3,9 @@
     public class GetBookingsByTypeModel
     {
         public DateTime RegisterDate { get; set; }
-        public string Code { get; set; }
-        public string Type { get; set; }
-        public string CustomerFullName { get; set; }
-        public string CustomerDocumentNumber{ get; set; }
+        public string Code { get; set; } = string.Empty;
+        public string Type { get; set; } = string.Empty;
+        public string CustomerFullName { get; set; } = string.Empty;
+        public string CustomerDocumentNumber { get; set; } = string.Empty;
     }
 }

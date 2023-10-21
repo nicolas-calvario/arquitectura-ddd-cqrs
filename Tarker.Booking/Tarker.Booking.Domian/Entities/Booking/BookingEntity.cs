@@ -7,12 +7,12 @@ namespace Tarker.Booking.Domian.Entities.Booking
     {
         public int BookingId { get; set; }
         public DateTime RegisterDate { get; set; }
-        public string Code { get; set; }
-        public string Type { get; set; }
+        public string Code { get; set; } = string.Empty;
+        public string Type { get; set; } = string.Empty;
         public int CustomerId { get; set; }
         public int UserId { get; set; }
 
-        public UserEntity User { get; set; }
-        public CustomerEntity Customer { get; set; }
+        public UserEntity User { get; set; } = new UserEntity();
+        public CustomerEntity Customer { get; set; } = new CustomerEntity();
     }
 }

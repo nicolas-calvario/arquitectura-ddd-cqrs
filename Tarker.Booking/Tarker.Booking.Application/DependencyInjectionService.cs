@@ -62,11 +62,9 @@ namespace Tarker.Booking.Application
             services.AddScoped<IValidator<CreateUserModel>, CreateUserValidator>();
             services.AddScoped<IValidator<UpdateUserModel>, UpdateUserValidator>();
             services.AddScoped<IValidator<UpdateUserPasswordModel>, UpdatePasswordValidator>();
-            services.AddScoped<IValidator<(string, string)>, GetUserByUserNameAndPasswordValidator>();
-            
+            services.AddScoped<IValidator<(string, string)>, GetUserByUserNameAndPasswordValidator>();            
             services.AddScoped<IValidator<CreateCustomerModel>, CreateCustomerValidator>();
             services.AddScoped<IValidator<UpdateCustomerModel>, UpdateCustomerValidator>();
-
             services.AddScoped<IValidator<CreateBookingModel>, CreateBookingValidation>();
 
             #endregion

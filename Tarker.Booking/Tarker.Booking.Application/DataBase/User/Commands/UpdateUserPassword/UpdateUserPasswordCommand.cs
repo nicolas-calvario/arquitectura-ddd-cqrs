@@ -1,7 +1,4 @@
-﻿using Tarker.Booking.Application.DataBase.User.Commands.UpdateUser;
-using Tarker.Booking.Domian.Entities.User;
-
-namespace Tarker.Booking.Application.DataBase.User.Commands.UpdateUserPassword
+﻿namespace Tarker.Booking.Application.DataBase.User.Commands.UpdateUserPassword
 {
     public class UpdateUserPasswordCommand : IUpdateUserPasswordCommand
     {
@@ -14,14 +11,14 @@ namespace Tarker.Booking.Application.DataBase.User.Commands.UpdateUserPassword
         public async Task<bool> Execute(UpdateUserPasswordModel model)
         {
             var entity = _dataBaseService.User.FirstOrDefault(x => x.UserId == model.UserId);
-            if(entity == null)
+            if (entity == null)
             {
                 return false;
             }
-            
-            entity.Password= model.Password;
+
+            entity.Password = model.Password;
             return await _dataBaseService.SaveAsync();
-            
+
         }
     }
 }

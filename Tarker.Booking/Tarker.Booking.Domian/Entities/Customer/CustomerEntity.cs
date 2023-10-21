@@ -5,9 +5,8 @@ namespace Tarker.Booking.Domian.Entities.Customer
     public class CustomerEntity
     {
         public int CustomerId { get; set; }
-        public string FullName { get; set; }
-        public string DocumentNumber{ get; set; }
-        public ICollection<BookingEntity> Bookings { get; set; }
-
+        public string FullName { get; set; } = string.Empty;
+        public string DocumentNumber { get; set; } = string.Empty;
+        public ICollection<BookingEntity> Bookings { get; set; } = new List<BookingEntity>();
     }
 }

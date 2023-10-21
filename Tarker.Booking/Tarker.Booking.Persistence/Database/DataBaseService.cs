@@ -7,9 +7,9 @@ using Tarker.Booking.Persistence.Configuration;
 
 namespace Tarker.Booking.Persistence.Database
 {
-    public class DataBaseService: DbContext, IDataBaseService
+    public class DataBaseService : DbContext, IDataBaseService
     {
-        public DataBaseService(DbContextOptions options): base(options)
+        public DataBaseService(DbContextOptions options) : base(options)
         {
 
         }
@@ -28,11 +28,11 @@ namespace Tarker.Booking.Persistence.Database
             EntityConfiguration(modelBuilder);
         }
 
-        private void EntityConfiguration(ModelBuilder modelBuilder)
+        private static void EntityConfiguration(ModelBuilder modelBuilder)
         {
-            new UserConfiguration(modelBuilder.Entity<UserEntity>());
-            new CustomerConfiguration(modelBuilder.Entity<CustomerEntity>());
-            new BookingConfiguration(modelBuilder.Entity<BookingEntity>());
+            _ = new UserConfiguration(modelBuilder.Entity<UserEntity>());
+            _ = new CustomerConfiguration(modelBuilder.Entity<CustomerEntity>());
+            _ = new BookingConfiguration(modelBuilder.Entity<BookingEntity>());
         }
 
     }
