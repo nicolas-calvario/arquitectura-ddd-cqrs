@@ -101,7 +101,7 @@ namespace Tarker.Booking.Api.Controllers
             var data = await getUserByUserNameAndPasswordQuery.Execute(userName,password);
 
             if (data == null)
-                return StatusCode(StatusCodes.Status404NotFound, ResponseApiService.Response(StatusCodes.Status404NotFound, data));
+                return StatusCode(StatusCodes.Status404NotFound, ResponseApiService.Response(StatusCodes.Status404NotFound));
 
             return StatusCode(StatusCodes.Status200OK, ResponseApiService.Response(StatusCodes.Status200OK, data));
         }

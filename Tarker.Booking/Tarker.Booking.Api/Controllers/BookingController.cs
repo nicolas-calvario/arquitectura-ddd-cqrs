@@ -43,12 +43,12 @@ namespace Tarker.Booking.Api.Controllers
         public async Task<ActionResult> GetByBookingByNumberDocument([FromQuery]string numberDocument, [FromServices] IGetBookingsByDocumentNumberQuery getBookingsByDocumentNumberQuery)
         {
             if (string.IsNullOrEmpty(numberDocument))
-                return StatusCode(StatusCodes.Status400BadRequest, ResponseApiService.Response(StatusCodes.Status400BadRequest, null));
+                return StatusCode(StatusCodes.Status400BadRequest, ResponseApiService.Response(StatusCodes.Status400BadRequest));
 
             var data = await getBookingsByDocumentNumberQuery.Execute(numberDocument);
 
             if (data == null)
-                return StatusCode(StatusCodes.Status404NotFound, ResponseApiService.Response(StatusCodes.Status404NotFound, data));
+                return StatusCode(StatusCodes.Status404NotFound, ResponseApiService.Response(StatusCodes.Status404NotFound));
 
             return StatusCode(StatusCodes.Status200OK, ResponseApiService.Response(StatusCodes.Status200OK, data));
         }
@@ -57,12 +57,12 @@ namespace Tarker.Booking.Api.Controllers
         public async Task<ActionResult> GetBookingByType([FromQuery]string type, [FromServices] IGetBookingsByTypeQuery getBookingsByTypeQuery)
         {
             if (string.IsNullOrEmpty(type))
-                return StatusCode(StatusCodes.Status400BadRequest, ResponseApiService.Response(StatusCodes.Status400BadRequest, null));
+                return StatusCode(StatusCodes.Status400BadRequest, ResponseApiService.Response(StatusCodes.Status400BadRequest));
 
             var data = await getBookingsByTypeQuery.Execute(type);
 
             if (data == null)
-                return StatusCode(StatusCodes.Status404NotFound, ResponseApiService.Response(StatusCodes.Status404NotFound, data));
+                return StatusCode(StatusCodes.Status404NotFound, ResponseApiService.Response(StatusCodes.Status404NotFound));
 
             return StatusCode(StatusCodes.Status200OK, ResponseApiService.Response(StatusCodes.Status200OK, data));
         }

@@ -4,8 +4,7 @@ namespace Tarker.Booking.Application.Features
 {
     public static class ResponseApiService
     {
-        public static BaseResposeModel Response(
-            int statusCode, object data = null, string message = null)
+        public static BaseResposeModel Response( int statusCode, object data = null, string message = null)
         {
             bool succes = false;
             if(statusCode >= 200 &&  statusCode <300) { succes = true; }
