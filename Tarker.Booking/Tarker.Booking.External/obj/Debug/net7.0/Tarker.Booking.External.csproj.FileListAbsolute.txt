@@ -10,3 +10,15 @@ C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\Tarker.Book
 C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\Tarker.Booking\Tarker.Booking.External\obj\Debug\net7.0\refint\Tarker.Booking.External.dll
 C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\Tarker.Booking\Tarker.Booking.External\obj\Debug\net7.0\Tarker.Booking.External.pdb
 C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\Tarker.Booking\Tarker.Booking.External\obj\Debug\net7.0\ref\Tarker.Booking.External.dll
+C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\arquitectura-ddd-cqrs\Tarker.Booking\Tarker.Booking.External\bin\Debug\net7.0\Tarker.Booking.External.deps.json
+C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\arquitectura-ddd-cqrs\Tarker.Booking\Tarker.Booking.External\bin\Debug\net7.0\Tarker.Booking.External.dll
+C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\arquitectura-ddd-cqrs\Tarker.Booking\Tarker.Booking.External\bin\Debug\net7.0\Tarker.Booking.External.pdb
+C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\arquitectura-ddd-cqrs\Tarker.Booking\Tarker.Booking.External\obj\Debug\net7.0\Tarker.Booking.External.csproj.AssemblyReference.cache
+C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\arquitectura-ddd-cqrs\Tarker.Booking\Tarker.Booking.External\obj\Debug\net7.0\Tarker.Booking.External.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\arquitectura-ddd-cqrs\Tarker.Booking\Tarker.Booking.External\obj\Debug\net7.0\Tarker.Booking.External.AssemblyInfoInputs.cache
+C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\arquitectura-ddd-cqrs\Tarker.Booking\Tarker.Booking.External\obj\Debug\net7.0\Tarker.Booking.External.AssemblyInfo.cs
+C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\arquitectura-ddd-cqrs\Tarker.Booking\Tarker.Booking.External\obj\Debug\net7.0\Tarker.Booking.External.csproj.CoreCompileInputs.cache
+C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\arquitectura-ddd-cqrs\Tarker.Booking\Tarker.Booking.External\obj\Debug\net7.0\Tarker.Booking.External.dll
+C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\arquitectura-ddd-cqrs\Tarker.Booking\Tarker.Booking.External\obj\Debug\net7.0\refint\Tarker.Booking.External.dll
+C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\arquitectura-ddd-cqrs\Tarker.Booking\Tarker.Booking.External\obj\Debug\net7.0\Tarker.Booking.External.pdb
+C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\arquitectura-ddd-cqrs\Tarker.Booking\Tarker.Booking.External\obj\Debug\net7.0\ref\Tarker.Booking.External.dll

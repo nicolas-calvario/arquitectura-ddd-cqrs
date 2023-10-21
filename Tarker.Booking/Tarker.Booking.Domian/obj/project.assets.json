@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\.Net\\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\\Tarker.Booking\\Tarker.Booking.Domian\\Tarker.Booking.Domian.csproj",
+      "projectUniqueName": "C:\\dev\\.Net\\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\\arquitectura-ddd-cqrs\\Tarker.Booking\\Tarker.Booking.Domian\\Tarker.Booking.Domian.csproj",
       "projectName": "Tarker.Booking.Domian",
-      "projectPath": "C:\\dev\\.Net\\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\\Tarker.Booking\\Tarker.Booking.Domian\\Tarker.Booking.Domian.csproj",
+      "projectPath": "C:\\dev\\.Net\\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\\arquitectura-ddd-cqrs\\Tarker.Booking\\Tarker.Booking.Domian\\Tarker.Booking.Domian.csproj",
       "packagesPath": "C:\\Users\\M93\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\.Net\\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\\Tarker.Booking\\Tarker.Booking.Domian\\obj\\",
+      "outputPath": "C:\\dev\\.Net\\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\\arquitectura-ddd-cqrs\\Tarker.Booking\\Tarker.Booking.Domian\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\M93\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,7 +13,7 @@ namespace Tarker.Booking.Application.DataBase.Customer.Querys.GetCustomerByID
             _dataBaseService = dataBaseService;
             _mapper = mapper;
         }
-        public async Task<GetCustomerByIdModel> Execuete(int id)
+        public async Task<GetCustomerByIdModel> Execute(int id)
         {
             var entity = await _dataBaseService.Customer.Where(x => x.CustomerId == id).FirstOrDefaultAsync();
             return _mapper.Map<GetCustomerByIdModel>(entity);

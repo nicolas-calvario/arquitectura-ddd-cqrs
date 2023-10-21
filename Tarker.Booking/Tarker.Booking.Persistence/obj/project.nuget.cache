@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "LwVlEaZai4Vy/m5znYxMmVfaL8N3WRlB2iCFa4Mx4fdMJWoeUlETCqV17at6bvncE3Z45V8Khaad8d/yurL/JQ==",
+  "dgSpecHash": "lSZG0UCwPqAuHE1PzT3vwa8Q/eXk1h90B7atwNgxiLooLsQ0ehPwKe4zdaS3QHlvrfpQwSrMC/1auxKxefJ2YQ==",
   "success": true,
-  "projectFilePath": "C:\\dev\\.Net\\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\\Tarker.Booking\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj",
+  "projectFilePath": "C:\\dev\\.Net\\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\\arquitectura-ddd-cqrs\\Tarker.Booking\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\M93\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\M93\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\M93\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
+    "C:\\Users\\M93\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
     "C:\\Users\\M93\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\M93\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
     "C:\\Users\\M93\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.2.0\\microsoft.aspnetcore.authorization.2.2.0.nupkg.sha512",

@@ -152,11 +152,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\.Net\\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\\Tarker.Booking\\Tarker.Booking.External\\Tarker.Booking.External.csproj",
+      "projectUniqueName": "C:\\dev\\.Net\\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\\arquitectura-ddd-cqrs\\Tarker.Booking\\Tarker.Booking.External\\Tarker.Booking.External.csproj",
       "projectName": "Tarker.Booking.External",
-      "projectPath": "C:\\dev\\.Net\\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\\Tarker.Booking\\Tarker.Booking.External\\Tarker.Booking.External.csproj",
+      "projectPath": "C:\\dev\\.Net\\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\\arquitectura-ddd-cqrs\\Tarker.Booking\\Tarker.Booking.External\\Tarker.Booking.External.csproj",
       "packagesPath": "C:\\Users\\M93\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\.Net\\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\\Tarker.Booking\\Tarker.Booking.External\\obj\\",
+      "outputPath": "C:\\dev\\.Net\\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\\arquitectura-ddd-cqrs\\Tarker.Booking\\Tarker.Booking.External\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\M93\\AppData\\Roaming\\NuGet\\NuGet.Config",

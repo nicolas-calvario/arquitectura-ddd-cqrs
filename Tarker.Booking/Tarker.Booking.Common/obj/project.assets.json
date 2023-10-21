@@ -62,11 +62,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\.Net\\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\\Tarker.Booking\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj",
+      "projectUniqueName": "C:\\dev\\.Net\\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\\arquitectura-ddd-cqrs\\Tarker.Booking\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj",
       "projectName": "Tarker.Booking.Common",
-      "projectPath": "C:\\dev\\.Net\\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\\Tarker.Booking\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj",
+      "projectPath": "C:\\dev\\.Net\\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\\arquitectura-ddd-cqrs\\Tarker.Booking\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj",
       "packagesPath": "C:\\Users\\M93\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\.Net\\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\\Tarker.Booking\\Tarker.Booking.Common\\obj\\",
+      "outputPath": "C:\\dev\\.Net\\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\\arquitectura-ddd-cqrs\\Tarker.Booking\\Tarker.Booking.Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\M93\\AppData\\Roaming\\NuGet\\NuGet.Config",

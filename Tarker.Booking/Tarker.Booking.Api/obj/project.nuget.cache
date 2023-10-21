@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "KCzM5QH6jIKJ2f1R/uq0DP6ltxx42iqQz/coIUDfeUnGp17flyOJ0/yP6mA45r78RPYu5yOT7NbtSNTgG6UOKw==",
+  "dgSpecHash": "MpUNjPQ27wlgSXvFylzqx9GMpTxl6HRuEXErtZedDYGvrdJ9HjHUvgUpPNxA2b7R28h92dr5dN5xyermLLmFDA==",
   "success": true,
-  "projectFilePath": "C:\\dev\\.Net\\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\\Tarker.Booking\\Tarker.Booking.Api\\Tarker.Booking.Api.csproj",
+  "projectFilePath": "C:\\dev\\.Net\\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\\arquitectura-ddd-cqrs\\Tarker.Booking\\Tarker.Booking.Api\\Tarker.Booking.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\M93\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\M93\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\M93\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
+    "C:\\Users\\M93\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
     "C:\\Users\\M93\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\M93\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\M93\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

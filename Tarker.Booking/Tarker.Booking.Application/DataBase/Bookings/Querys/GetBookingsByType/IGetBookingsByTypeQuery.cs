@@ -2,6 +2,6 @@
 {
     public interface IGetBookingsByTypeQuery
     {
-        Task<List<GetBookingsByTypeModel>> Execuete(string type);
+        Task<List<GetBookingsByTypeModel>> Execute(string type);
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5cdfkpl0vh33CnUtR2jyVk88XWYBGvb+cMLqZ6Qp7e8movi+9bP0cpBeilhleyq/WeTk3mH5LeiuAMzaVlbO0Q==",
+  "dgSpecHash": "GfBgBmqNS0OKKifZD6ikM8YcLvV3B9YkFyRbvNJ8msRrpXOU221ehwLwqOaFCju4gNF/ruNBACETa1OJyOO3SQ==",
   "success": true,
-  "projectFilePath": "C:\\dev\\.Net\\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\\Tarker.Booking\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj",
+  "projectFilePath": "C:\\dev\\.Net\\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\\arquitectura-ddd-cqrs\\Tarker.Booking\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\M93\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
   ],

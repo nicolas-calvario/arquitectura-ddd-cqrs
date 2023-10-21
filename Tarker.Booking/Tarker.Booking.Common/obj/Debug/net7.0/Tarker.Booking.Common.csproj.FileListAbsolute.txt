@@ -10,3 +10,15 @@ C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\Tarker.Book
 C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\Tarker.Booking\Tarker.Booking.Common\obj\Debug\net7.0\refint\Tarker.Booking.Common.dll
 C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\Tarker.Booking\Tarker.Booking.Common\obj\Debug\net7.0\Tarker.Booking.Common.pdb
 C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\Tarker.Booking\Tarker.Booking.Common\obj\Debug\net7.0\ref\Tarker.Booking.Common.dll
+C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\arquitectura-ddd-cqrs\Tarker.Booking\Tarker.Booking.Common\bin\Debug\net7.0\Tarker.Booking.Common.deps.json
+C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\arquitectura-ddd-cqrs\Tarker.Booking\Tarker.Booking.Common\bin\Debug\net7.0\Tarker.Booking.Common.dll
+C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\arquitectura-ddd-cqrs\Tarker.Booking\Tarker.Booking.Common\bin\Debug\net7.0\Tarker.Booking.Common.pdb
+C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\arquitectura-ddd-cqrs\Tarker.Booking\Tarker.Booking.Common\obj\Debug\net7.0\Tarker.Booking.Common.csproj.AssemblyReference.cache
+C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\arquitectura-ddd-cqrs\Tarker.Booking\Tarker.Booking.Common\obj\Debug\net7.0\Tarker.Booking.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\arquitectura-ddd-cqrs\Tarker.Booking\Tarker.Booking.Common\obj\Debug\net7.0\Tarker.Booking.Common.AssemblyInfoInputs.cache
+C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\arquitectura-ddd-cqrs\Tarker.Booking\Tarker.Booking.Common\obj\Debug\net7.0\Tarker.Booking.Common.AssemblyInfo.cs
+C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\arquitectura-ddd-cqrs\Tarker.Booking\Tarker.Booking.Common\obj\Debug\net7.0\Tarker.Booking.Common.csproj.CoreCompileInputs.cache
+C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\arquitectura-ddd-cqrs\Tarker.Booking\Tarker.Booking.Common\obj\Debug\net7.0\Tarker.Booking.Common.dll
+C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\arquitectura-ddd-cqrs\Tarker.Booking\Tarker.Booking.Common\obj\Debug\net7.0\refint\Tarker.Booking.Common.dll
+C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\arquitectura-ddd-cqrs\Tarker.Booking\Tarker.Booking.Common\obj\Debug\net7.0\Tarker.Booking.Common.pdb
+C:\dev\.Net\.NET 8 Arquitectura, Seguridad, Monitoreo y Doc. de APIs\arquitectura-ddd-cqrs\Tarker.Booking\Tarker.Booking.Common\obj\Debug\net7.0\ref\Tarker.Booking.Common.dll

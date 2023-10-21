@@ -2,6 +2,6 @@
 {
     public interface IGetCustomerByIdCommand
     {
-        Task<GetCustomerByIdModel> Execuete(int id);
+        Task<GetCustomerByIdModel> Execute(int id);
     }
 }
